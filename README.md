@@ -43,6 +43,8 @@ https://brunch.co.kr/@aidenswmo/2
 ### 알고리즘
 - https://www.coursera.org/learn/advanced-learning-algorithms#about
 
+- https://www.coursera.org/learn/advanced-learning-algorithms#about
+
 ### 네이버 부스트 캠프 
 - https://boostcamp.connect.or.kr/guide_ai.html?external_browser_redirect=true
 
