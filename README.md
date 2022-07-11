@@ -29,3 +29,33 @@
 
 ### 2023년 1월 ~
 미정
+
+## Roadmaps
+https://brunch.co.kr/@aidenswmo/2
+
+
+## Resources
+### 머신러닝
+- Coursera https://www.coursera.org/learn/machine-learning
+
+- 인프런 https://www.inflearn.com/course/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D#curriculum
+
+### 네이버 부스트 캠프 
+- https://boostcamp.connect.or.kr/guide_ai.html?external_browser_redirect=true
+
+- 인공지능 기초 다지기: https://www.boostcourse.org/ai100
+
+- 딥러닝 기초 다기기: https://www.boostcourse.org/ai111
+
+- [부스트캠프 AI Tech 4기] Pre-Course(현재 강좌): https://www.boostcourse.org/onlyboostcampaitech4/
+
+
+### 수학
+- 선형대수학 
+(https://www.khanacademy.org/math/linear-algebra)
+
+- Statistics and probability - Khan Academy
+(https://www.khanacademy.org/math/statistics-probability)
+
+- Multivariable Calculus - Khan Academy
+(https://www.khanacademy.org/math/multivariable-calculus)
