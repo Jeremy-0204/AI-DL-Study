@@ -33,6 +33,12 @@
 ## Roadmaps
 https://brunch.co.kr/@aidenswmo/2
 
+https://www.youtube.com/watch?v=z3S8WfF6peY
+
+https://www.mltut.com/deep-learning-roadmap/
+
+https://www.kaggle.com/general/217218
+
 
 ## Resources
 ### 머신러닝
