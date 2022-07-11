@@ -40,6 +40,9 @@ https://brunch.co.kr/@aidenswmo/2
 
 - 인프런 https://www.inflearn.com/course/%ED%98%BC%EC%9E%90%EA%B3%B5%EB%B6%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D#curriculum
 
+### 알고리즘
+- https://www.coursera.org/learn/advanced-learning-algorithms#about
+
 ### 네이버 부스트 캠프 
 - https://boostcamp.connect.or.kr/guide_ai.html?external_browser_redirect=true
 
