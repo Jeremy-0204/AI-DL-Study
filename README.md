@@ -60,6 +60,8 @@ https://www.kaggle.com/general/217218
 
 - [부스트캠프 AI Tech 4기] Pre-Course(현재 강좌): https://www.boostcourse.org/onlyboostcampaitech4/
 
+- 계획 무산
+
 
 ### 수학
 - 선형대수학 
