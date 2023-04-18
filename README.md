@@ -1,4 +1,4 @@
-# ML_Study
+# _Study
 본 Repository는 한동대학교 재학생인 박경륜의 2023년도 IT - AI 업계 보충역 편입을 위한 공부 리소스 및 전반적인 계획과 로드맵을 정리하기 위함이다. 
 
 ## To Do List
