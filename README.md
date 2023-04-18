@@ -2,10 +2,16 @@
 본 Repository는 2023년도 IT - AI 업계 산업기능요원 보충역 편입을 위한 딥러닝 공부 리소스 및 전반적인 계획과 로드맵을 정리하기 위함이다. 
 
 ## To Do List
+#### 데이콘 / Kaggle 필사
 
+#### Deep Learning from scratch 필사
+
+#### 수학 공부
+
+#### 알고리즘 공부
 
 ## Study Schedule
-
+하루 백준 2문제, 필사 최소 1시간 이상, 수학 공부 1시간 이상을 목표로 합니다.
 
 ## Roadmaps
 https://brunch.co.kr/@aidenswmo/2
